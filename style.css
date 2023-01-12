@@ -16,3 +16,9 @@ body {
   font-size: 70px;
   color: lightseagreen;
 }
+
+.title:hover {
+  color: navy;
+  opacity: 0.7;
+  transition: 3s;
+}
